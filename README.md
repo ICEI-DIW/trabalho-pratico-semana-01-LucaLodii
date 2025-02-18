@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Luca Guimarães Lodi
+Matricula: 885517
 
 ## Tela de inspeção com navegador
-
+![inspecao_rede](imagens/inspecao_rede.png)
 
 ## Tela de projeto no Replit
-
+![tela_de_projeto_no_replit](imagens/tela_de_projeto_no_replit.png)
