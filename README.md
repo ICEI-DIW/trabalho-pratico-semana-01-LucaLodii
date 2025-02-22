@@ -1,13 +1,11 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Ue6hVgM5)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18198356&assignment_repo_type=AssignmentRepo)
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Luca Guimarães Lodi
+Matricula: 885517
 
 ## Tela de inspeção com navegador
-
+https://cdn.discordapp.com/attachments/659913995431575552/1341183729548136579/tela_de_projeto_no_replit.png?ex=67b5122f&is=67b3c0af&hm=ae5708e689b3c90e7365d16094ea88a21a4690481912b3814d41287214ee38ed&
 
 ## Tela de projeto no Replit
-
+https://cdn.discordapp.com/attachments/659913995431575552/1341183729548136579/tela_de_projeto_no_replit.png?ex=67b5122f&is=67b3c0af&hm=ae5708e689b3c90e7365d16094ea88a21a4690481912b3814d41287214ee38ed&
